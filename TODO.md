@@ -23,6 +23,8 @@
 10. Una licuadora de mano o un brawn  (pa la salsa )
 11. Bolsas y botes para la basura
 12. La parrilla del máster touch
+13. Maquina para hacer tortillas y su bolsa de plastico
+14. Tortillero para mantener caliente las tortillas y toalla
 
 ## Para mejorar
 

@@ -1,4 +1,38 @@
-# Taco de Ribeye
+# TACO DE RIBEYE PARA EL PINCHE ANTOJO
+
+## INGREDIENTES
+
+Ribeye de 2" (De preferencia 2 o 3 cortes)
+Masa de maiz morado o negro
+Aceite de cenizas de chiles v2
+1 Cebolla
+3-4 Tomates Verdes que esten firmes
+1 limon.
+Pimiento Morron Mini (Rojo y Naranja)
+Chile Jalapeño
+
+### Salsa
+Aceite de Chiles v1.
+1 Jitomate
+3 Tomates Verdes
+2-3 Dientes de Ajos
+1 Chile Jalapeño
+1 Chile Guero 
+1 Chile Como el guero pero mas chico (no se como se llama jaja)
+Sal Ahumada
+Pimienta combinada (roja, blanca, negra, verde)
+(Tatemar todos los ingredientes y moler)
+
+### Rub
+Paprika
+Cebolla en polvo
+Ajo en Polvo
+Pimienta combinada (roja, blanca, negra, verde)
+
+## PREPARACION
+
+TBD.
+
 
 ## Tips
 Hacer una tortilla torteada que se infle
@@ -6,3 +40,4 @@ La combinación guacamole-salsa macha  es una combinación ganadora
 Más que el pico de gallo y la salsa de molcajete
 El platillo ganador ceboĺla frita, guacamole del doc y aceite de chiles del ray y jugo del ribeye
 Usar briquetas para el puerco
+
