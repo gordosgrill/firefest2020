@@ -31,13 +31,31 @@ Pimienta combinada (roja, blanca, negra, verde)
 
 ## PREPARACION
 
-TBD.
+1. Tortilla recién hecha
+2. Aceite de chiles de ceniza
+3. Rib eye 
+4. Chips de cebolla frita 
+5. Rodajas de tomate verde crudo
+6. Ralladura de pimiento morrón mini
+7. Salsa rústica plus
+8. Hojas de cilantro 
+9. Gotas de jugo de guacamole
+10. Gotas de reducción de jugo
 
 
-## Tips
-Hacer una tortilla torteada que se infle
-La combinación guacamole-salsa macha  es una combinación ganadora
-Más que el pico de gallo y la salsa de molcajete
-El platillo ganador ceboĺla frita, guacamole del doc y aceite de chiles del ray y jugo del ribeye
-Usar briquetas para el puerco
+## Notas practica 11 feb
+
+* Hacer una tortilla torteada que se infle
+* La combinación guacamole-salsa macha  es una combinación ganadora
+* Más que el pico de gallo y la salsa de molcajete
+* El platillo ganador ceboĺla frita, guacamole del doc y aceite de chiles del ray y jugo del ribeye
+* Usar briquetas para el puerco
+
+## Notas practica 18 feb
+
+Próxima practica:
+Reservar jugo de carne
+Salsa rústica con aceite se ceniza de chiles
+Embarrar la tortilla en los jugos de la carne por un solo lado y calentar 
+Uno de los rib eyes dejarlo en aluminio para extraerle el jugo 
 
