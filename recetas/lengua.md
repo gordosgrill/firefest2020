@@ -16,5 +16,8 @@
 ## Notas practica 18 feb
 
 * Masa en el cast iron
-* Agregar mas cerveza que la receta de la barbacoa de chuck roll y la mezcla de hierbas que encontro chuyimbash
+* Agregar mas cerveza que la receta de la barbacoa de chuck roll 
+y la mezcla de hierbas que encontro chuyinbash.
+(tomillo, oregano)
+
 * Y más sal
