@@ -1,4 +1,4 @@
-# WIP: Barbacoa de Lengua 
+# Barbacoa de Lengua 
 
 ## Lengua
 1 Lengua de 2.x Kg
@@ -8,7 +8,8 @@
 * Misma receta que la barbacoa de chuck roll
 * Meter la lengua entera
 * Agregar mas cerveza 
-* Dejar cocer en Cast Iron Pot por 2.5hrs 
+* Dejar cocer en Cast Iron Pot por 2.5hrs
+* Sellar la tapa con masa
 * Carbon arriba y abajo (arriba solo una vez)
 
 
