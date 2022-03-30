@@ -1,5 +1,3 @@
-
-
 ------------------------------------------------------------------------
 Inventario
 -------------------------------------------------------------------------
@@ -10,8 +8,8 @@ Asadores
 - 1 PK Grill
 - 1 Grill grates 
 - 1 Grill grate pinza
-- 2 pinzas para asar
-- 2 limpia parrillas
+- 2 Pinzas para asar
+- 2 Cepillos limpia parrillas
 
 Utensilios en General
 ------------------------
@@ -34,6 +32,8 @@ Utensilios en General
 - 1 Guantes de nitrilo
 - bote de basura
 - caja de bolsas para la basura
+- 1 triturador electrico
+- 1 Secadora de Pelo
 
 Ingredientes en general
 -----------------------
@@ -45,7 +45,9 @@ Ingredientes en general
 - 1 Tortillero
 - 1 Pimienta Molida
 - Spray de Aceite de Canola
-- polvo para hornear
+- Polvo para hornear
+- MSG
+- Ajo
 
 Taco 
 -------------------------
@@ -53,7 +55,7 @@ Taco
 	- uno de backup
 - 2 Poros
 - 1/4 de tomatillo verde
-- 1 kg de Masa buena
+- 1 kg de Masa verde
 - 1/4 de Hongos deshidratados
 - 1 Aceite de Trufa
 - 1 Salsa verde cremosa o chiles serranos.
@@ -63,7 +65,7 @@ Porkbelly
 -----------------------------------
 - 3 piezas de porkbelly en rectangulo
 	- Secadas con sal al dia anterior
-- 1 Kg de Masa
+- 1 Kg de Masa normal
 - 2 Chiles Morrones Rojos
 - 1 Bolsa de Azucar Mascabado
 - 1 Cebolla Morada Desflemada
