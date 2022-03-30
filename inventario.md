@@ -1,3 +1,5 @@
+
+
 ------------------------------------------------------------------------
 Inventario
 -------------------------------------------------------------------------
@@ -54,7 +56,8 @@ Taco
 
 Porkbelly
 -----------------------------------
-- 3 piezas de porkbelly en rectangulo.
+- 3 piezas de porkbelly en rectangulo
+	- secadas con sal al dia anterior
 - 1 Kg de Masa
 - 2 Chiles Morrones Rojos
 - 1 Bolsa de Azucar Mascabado
