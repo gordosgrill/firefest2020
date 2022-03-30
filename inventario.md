@@ -28,7 +28,7 @@ Utensilios en General
 - 1 Maquina de hacer torillas
 - 1 Plato para presentar el Taco a ciegas con Tapadera Metalica*
 - 1 Plato para presetar la gordita de puerco. *
-- 1 Kilo de Briquetas King Ford
+- 1 Bolsa de Briquetas King Ford
 - 1 Guantes de nitrilo
 - bote de basura
 - caja de bolsas para la basura
