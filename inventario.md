@@ -45,6 +45,7 @@ Ingredientes en general
 - 1 Tortillero
 - 1 Pimienta Molida
 - Spray de Aceite de Canola
+- polvo para hornear
 
 Taco 
 -------------------------
