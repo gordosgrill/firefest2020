@@ -32,6 +32,8 @@ Utensilios en General
 - 1 Plato para presetar la gordita de puerco. *
 - 1 Kilo de Briquetas King Ford
 - 1 Guantes de nitrilo
+- bote de basura
+- caja de bolsas para la basura
 
 Ingredientes en general
 -----------------------
