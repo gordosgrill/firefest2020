@@ -42,10 +42,12 @@ Ingredientes en general
 - 1 Vinagre Blanco
 - 1 Tortillero
 - 1 Pimienta Molida
+- Spray de Aceite de Canola
 
 Taco 
 -------------------------
-- 3 piezas de Ribeye 2.5" (uno de backup)
+- 3 piezas de Ribeye 2.5" 
+	- uno de backup
 - 2 Poros
 - 1/4 de tomatillo verde
 - 1 kg de Masa buena
@@ -57,7 +59,7 @@ Taco
 Porkbelly
 -----------------------------------
 - 3 piezas de porkbelly en rectangulo
-	- secadas con sal al dia anterior
+	- Secadas con sal al dia anterior
 - 1 Kg de Masa
 - 2 Chiles Morrones Rojos
 - 1 Bolsa de Azucar Mascabado
