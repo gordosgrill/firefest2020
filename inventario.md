@@ -10,6 +10,7 @@ Asadores
 - 1 Grill grate pinza
 - 2 Pinzas para asar
 - 2 Cepillos limpia parrillas
+- 2 Chimeneas
 
 Utensilios en General
 ------------------------
@@ -35,6 +36,7 @@ Utensilios en General
 - 1 triturador electrico
 - 1 Secadora de Pelo
 - 1 Skilet y una cazuela de acero inoxidable
+- Encendedores de carbon
 
 Ingredientes en general
 -----------------------
