@@ -34,6 +34,7 @@ Utensilios en General
 - caja de bolsas para la basura
 - 1 triturador electrico
 - 1 Secadora de Pelo
+- 1 Skilet y una cazuela de acero inoxidable
 
 Ingredientes en general
 -----------------------
