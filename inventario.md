@@ -4,11 +4,11 @@ Inventario
 
 Asadores
 ---------------
-- 2 Weber Kettle
+- 4 Weber Kettle
 - 1 PK Grill
 - 1 Grill grates 
-- 1 Grill grate pinza
-- 2 Pinzas para asar
+- 1 Grill grate y su pinza
+- 2 Pinzas para Asar
 - 2 Cepillos limpia parrillas
 - 2 Chimeneas
 
@@ -17,7 +17,7 @@ Utensilios en General
 - 3 Cuchillos para chef
 - 2 Charolas de Aluminio
 - 2 Tablas para picar
-- 2 Molcajetes
+- 1 Molcajetes
 - 1 Tabla para presentar
 - 1 Mesas de trabajo grande
 - 1 Mesa de trabajo chica
@@ -27,16 +27,17 @@ Utensilios en General
 - 1 Esponja limpia
 - 1 Rollo de franelas
 - 1 Maquina de hacer torillas
+- 1 Maquina Manual de hacer tortillas
 - 1 Plato para presentar el Taco a ciegas con Tapadera Metalica*
 - 1 Plato para presetar la gordita de puerco. *
-- 1 Bolsa de Briquetas King Ford
+- 1 Bolsa de Briquetas Kingsford
 - 1 Guantes de nitrilo
-- bote de basura
-- caja de bolsas para la basura
+- 1 bote de basura
+- 1 caja de bolsas para la basura
 - 1 triturador electrico
 - 1 Secadora de Pelo
 - 1 Skilet y una cazuela de acero inoxidable
-- Encendedores de carbon
+- 1 Encendedores de carbon
 
 Ingredientes en general
 -----------------------
@@ -55,7 +56,7 @@ Ingredientes en general
 Taco 
 -------------------------
 - 3 piezas de Ribeye 2.5" 
-	- uno de backup
+	- Uno de backup
 - 2 Poros
 - 1/4 de tomatillo verde
 - 1 kg de Masa verde
@@ -63,6 +64,7 @@ Taco
 - 1 Aceite de Trufa
 - 1 Salsa verde cremosa o chiles serranos.
 - 1 Manojo de Cilantro
+- Rabanos
 
 Porkbelly
 -----------------------------------
@@ -76,6 +78,25 @@ Porkbelly
 - 1 Litro de Aceite
 - 1 Chips de Manzano para ahumar
 - 2 Habaneros para la cebolla
+
+Picaña
+---------------------------------------
+- 1 picaña (nos las van a dar en el evento)
+- 1 Chimichurri (prework)
+- 1 pan artesanal
+- 1 Aceite de Oliva
+- 1 Salsa Rustica.
+
+Salsa Rustica
+------------------------
+- 2 tomates bola
+- chiltepin, Sal y Oregano Seco
+- 2 chiles jalapeños
+- 2 Chiles weros
+- 1 chile caribe 
+- 1 Chile serrano
+- 2 Dientes de Ajo
+
 
 Nice to have
 ------------
