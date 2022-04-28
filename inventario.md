@@ -38,6 +38,7 @@ Utensilios en General
 - 1 Secadora de Pelo
 - 1 Skilet y una cazuela de acero inoxidable
 - 1 Encendedores de carbon
+- 1 Tenedores y cucharas
 
 Ingredientes en general
 -----------------------
