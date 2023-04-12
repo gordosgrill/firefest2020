@@ -5,6 +5,7 @@
 * Aceite de olivo
 * azucar mascabado 
 * vinagre de manzana
+* Whiskey
 
 ## pasos
 1. Se asan los pimientos hasta que esten negros por todos lados
@@ -12,4 +13,6 @@
 3. Se les quita la piel 'quemada' negra.
 4. Se abren y se les quitan las semillas, y se cortan en tiras de 1cm por 5cm de largo
 5. Se ponen en un cazo pequeño y se integran con 3 cucharadas de azucar mascabado, un chorro generoso de aceite de oliva y otro de vinagre de manzana.
-6. Se pone el cazo a fuego directo por 15-20 minutos, moviendolos constantemente, hasta que se reduzcan.
+6. Se pone el cazo a fuego directo por 15 minutos, moviendolos constantemente, hasta que se reduzcan.
+7. Agregar a la reduccion de pimientos,  un chorro generoso de whiskey y seguir moviendo por 5 minutos
+8. listo!
